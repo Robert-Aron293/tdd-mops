@@ -1,0 +1,2 @@
+D:\A AN FACULTATE 4\SEM 1\Licenta\Handymand-back\Handymand-back.UnitTests\obj\Debug\Handymand-back.UnitTests.dll
+D:\A AN FACULTATE 4\SEM 1\Licenta\Handymand-back\Handymand-back.UnitTests\obj\Debug\Handymand-back.UnitTests.pdb

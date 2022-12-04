@@ -1,0 +1,14 @@
+D:\A AN FACULTATE 4\SEM 1\Licenta\Handymand-back\Handymand-back.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\A AN FACULTATE 4\SEM 1\Licenta\Handymand-back\Handymand-back.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\A AN FACULTATE 4\SEM 1\Licenta\Handymand-back\Handymand-back.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\A AN FACULTATE 4\SEM 1\Licenta\Handymand-back\Handymand-back.UnitTests\bin\Debug\Handymand-back.UnitTests.dll
+D:\A AN FACULTATE 4\SEM 1\Licenta\Handymand-back\Handymand-back.UnitTests\bin\Debug\Handymand-back.UnitTests.pdb
+D:\A AN FACULTATE 4\SEM 1\Licenta\Handymand-back\Handymand-back.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\A AN FACULTATE 4\SEM 1\Licenta\Handymand-back\Handymand-back.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\A AN FACULTATE 4\SEM 1\Licenta\Handymand-back\Handymand-back.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\A AN FACULTATE 4\SEM 1\Licenta\Handymand-back\Handymand-back.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\A AN FACULTATE 4\SEM 1\Licenta\Handymand-back\Handymand-back.UnitTests\obj\Debug\Handymand-back.UnitTests.csproj.AssemblyReference.cache
+D:\A AN FACULTATE 4\SEM 1\Licenta\Handymand-back\Handymand-back.UnitTests\obj\Debug\Handymand-back.UnitTests.csproj.CoreCompileInputs.cache
+D:\A AN FACULTATE 4\SEM 1\Licenta\Handymand-back\Handymand-back.UnitTests\obj\Debug\Handymand-back.UnitTests.csproj.CopyComplete
+D:\A AN FACULTATE 4\SEM 1\Licenta\Handymand-back\Handymand-back.UnitTests\obj\Debug\Handymand-back.UnitTests.dll
+D:\A AN FACULTATE 4\SEM 1\Licenta\Handymand-back\Handymand-back.UnitTests\obj\Debug\Handymand-back.UnitTests.pdb
